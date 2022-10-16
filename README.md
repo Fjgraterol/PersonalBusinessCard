@@ -2,7 +2,7 @@
 
 ## About
 
-I utilized React to build my own personal business card. I used Scrimba to learn about React. Watch my deployed business card [here](https://franklin-graterol-card.netlify.app/)
+I utilized React to build my own personal business card. I used Scrimba to learn about React. See my deployed business card [here](https://franklin-graterol-card.netlify.app/)
 
 Quick start:
 
