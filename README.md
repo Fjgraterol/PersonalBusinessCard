@@ -1,4 +1,9 @@
-# Personal Business Card
+# [Personal Business Card](https://franklin-graterol-card.netlify.app/)
+
+## About
+
+I utilized React to build my own personal business card. I used Scrimba to learn about React. Watch my deployed business card [here](https://franklin-graterol-card.netlify.app/)
+
 Quick start:
 
 ```
